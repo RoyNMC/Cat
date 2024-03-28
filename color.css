@@ -1,0 +1,21 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:antiquewhite;
+}
+h1{
+    text-align: center;
+    background-color: gray ;
+    color: aqua;
+    width: 500px;
+    margin: auto
+}
+.texto{
+    color: aqua;
+    background-color: gray;
+    width: 400px;
+    margin-right: auto;
+    text-align: center;
+}
+.texto_gato{
+    width: 400px;
+}
